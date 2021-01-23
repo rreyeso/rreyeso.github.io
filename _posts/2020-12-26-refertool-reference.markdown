@@ -1,7 +1,6 @@
 ---
-layout: article
+layout: post
 title: "Usando roam para organizar mi vida"
-tags: tools
 ---
     
 ¿Alguna vez has escuchado la frase: **"Escribir es pensar"**? Yo la había escuchado hace mucho, pero hasta hace poco resonó con mi experiencia. Considero que el arte de escribir, más que una forma de expresión, es una forma de poner cada idea en su lugar. Aunque no soy un escritor particularmente bueno, me gusta pensar en esta idea como fundamento de mi sistema de trabajo.
@@ -32,3 +31,4 @@ Fue así como poco a poco entendí los principios básicos de la herramienta y s
 
 ## Mi paradigma de trabajo en roam
 
+[en proceso]

@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Welcome
 ---
-
-Welcome to my blog!
 
 I am **Roberto Reyes**, a young data scientist and entrepreneur passionate about a variety of subjects:
 - Algorithms for AI

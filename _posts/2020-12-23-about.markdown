@@ -1,14 +1,11 @@
 ---
-layout: article
+layout: post
 title: "Acerca de este blog"
-tags: deep-learning, AI, tools, software
 ---
 
-## Un poco acerca de mí
+## Acerca de este blog
 
 Soy un joven apasionado por la tecnología. Me encanta el mundo del software, en especial el de código abierto, pues encuentro en él una dualidad utilidad-aprendizaje ausente en cualquier otra disciplina. Pasé muchos años como un observador de la tecnología, pero ahora estoy decidido a participar de su creación o al menos difundir sus enseñanzas. 
-
-## Acerca de este blog
 
 Recientemente, he encontrado en el mundo de la inteligencia artificial una plataforma revolucionaria para emprender proyectos de investigación y desarrollo de software, es por ello que decí comenzar un blog para difundir sus aplicaciones al mundo de habla hispana y documentar mi proceso de aprendizaje y experimentación. Además me servirá como plataforma para organizar mis ideas en torno a estos y otros temas que me apasionan.
 
