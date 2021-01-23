@@ -12,7 +12,7 @@ My goal here is to comminicate my passion for **science and technology** and **i
 
 ### About me
 
-![Photo of me](_resources/photo.jpg)
+![Photo of me](resources/photo.jpg)
 
 That's me, I am 22 years old and recently graduated from Tec de Monterrey (Monterrey, Mexico). I like football, pop music, reading short stories and watching movies (thrillers are the best!). In the last couple of years I have been working and doing research in the fields of virtual assistants, computer vision and software development. More recently I am working on my iOS development skills to build smart apps targeted at health care. I am also interested in data science as a new programming paradigm where data and models, not rules, determine the behavior of a program (programming 2.0).
 

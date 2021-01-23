@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Welcome to my personal blog
+### Welcome to my blog!
 
 I am **Roberto Reyes**, a young data scientist and entrepreneur passionate about a variety of subjects:
 - Algorithms for AI
