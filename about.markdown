@@ -1,16 +1,8 @@
-## Welcome to my personal blog
-
-I am **Roberto Reyes**, a young data scientist and entrepreneur passionate about a variety of subjects:
-- Algorithms for AI
-- Productivity tools
-- Innovation in tech
-
-My goal here is to comminicate my passion for **science and technology** and **inspire others** to follow careers in STEM fieds. In order to achive this goal my posts will be oriented towards:
-- Documenting interesting projects I am working on
-- Providing insights about my experience in these subjects
-- Talking about the tools I use and have simplified my life
-
-### About me
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 ![Photo of me](_resources/photo.jpg)
 
@@ -23,4 +15,4 @@ Throughout my childhood I developed a passion for science and math. I found that
 
 Now that I am older and wiser, I want to communicate the most important steps I take towards achieving my goals and express myself along the way. This has been the hardest skill to master for a long time, but not anymore!
 
-Take a look at this blog or [get in touch](rcao717@gmail.com) if you feel like it!
+Take a look at this blog or [get in touch](mailto:rcao717@gmail.com) if you feel like it!
